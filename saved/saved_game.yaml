@@ -1,0 +1,7 @@
+--- !ruby/object:Game
+secret_word: fleecily
+display_word: ________
+player: !ruby/object:Game::Player
+  tries: 11
+  secret_word: fleecily
+misses: s,
